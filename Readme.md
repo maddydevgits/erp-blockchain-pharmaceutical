@@ -1,8 +1,8 @@
 # About Project
 
-Healthcare Supply Chain is a complex network of several independent entities that include raw material suppliers, manufacturers, distributor, pharmacies, hospitals and patients. 
+Pharmaceutical is a complex network of several independent entities that include raw material suppliers, manufacturers, distributor, pharmacies, hospitals and patients. 
 
-Tracking supplies through this network is non-trivial due to several factors including lack of information, centralized control and competing behaviour among stakeholders.
+Managing supplies through this network is non-trivial due to several factors including lack of information, centralized control and competing behaviour among stakeholders.
 
 # Development Process
 
@@ -42,8 +42,7 @@ Tracking supplies through this network is non-trivial due to several factors inc
 2. Launch Ganache
 3. Compile Smart Contracts (truffle compile)
 4. Migrate the Smart Contracts (truffle migrate)
-5. Copy the Smart Contract Addresses into app.py
-6. Run the server (python app.py)
+5. Run the server (python app.py)
 
 # Questions
 For questions do reach me on <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
